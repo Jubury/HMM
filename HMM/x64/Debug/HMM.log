@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\aljub\OneDrive\Desktop\New folder\HMM\HMM\Main.cpp(5,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aljub\OneDrive\Desktop\New folder\HMM\HMM\Main.cpp(6,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aljub\OneDrive\Desktop\New folder\HMM\HMM\Main.cpp(7,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aljub\OneDrive\Desktop\New folder\HMM\HMM\Main.cpp(8,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aljub\OneDrive\Desktop\New folder\HMM\HMM\Main.cpp(10,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aljub\OneDrive\Desktop\New folder\HMM\HMM\Main.cpp(11,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LINK : C:\Users\aljub\OneDrive\Desktop\New folder\HMM\x64\Debug\HMM.exe not found or not built by the last incremental link; performing full link
+  HMM.vcxproj -> C:\Users\aljub\OneDrive\Desktop\New folder\HMM\x64\Debug\HMM.exe
